@@ -1,0 +1,103 @@
+body{
+  background-color: #522d5b;
+  text-align: center;
+}
+
+.top-section{
+  padding: 100px 100px 50px;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+}
+
+.p1{
+  font-size: 2rem;
+  position: relative;
+  margin: auto 40%;
+  right: 300px;
+  top: 4px;
+
+}
+.p2{
+  font-size: 2rem;
+  position: relative;
+  margin: auto 40%;
+  left: 300px;
+  bottom: 32px;
+}
+
+.di1{
+  position:absolute;
+  left: 340px;
+
+}
+
+.di2{
+  position:absolute;
+    left: 340px;
+
+}
+
+.di3{
+  position:absolute;
+    left: 340px;
+
+}
+
+.di4{
+  position:absolute;
+    left: 340px;
+
+}
+
+.di5{
+  position:absolute;
+    left: 340px;
+
+}
+
+.di6{
+  position:absolute;
+    left: 340px;
+}
+
+.d2i1{
+  position: absolute;
+  right: 340px;
+}
+
+.d2i2{
+  position: absolute;
+  right: 340px;
+  top: 680px;
+}
+
+.d2i3{
+  position: absolute;
+  right: 340px;
+  top: 680px;
+}
+
+.d2i4{
+  position: absolute;
+  right: 340px;
+  top: 680px;
+
+}
+
+.d2i5{
+  position: absolute;
+  right: 340px;
+  top: 680px;
+
+}
+
+.d2i6{
+  position: absolute;
+  right: 340px;
+  top: 680px;
+
+}
+
+.invisible{
+  visibility: hidden;
+}
